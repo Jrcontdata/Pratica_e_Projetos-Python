@@ -1,2 +1,6 @@
 # Pratica_automatizacao
- Meu primeiro repositorio versionado
+ Meu primeiro repositorio
+
+ Criado para estudo e hospedagem dos meus projetos
+
+ 
